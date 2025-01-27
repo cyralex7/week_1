@@ -8,7 +8,7 @@ This assignment will provide an introduction to Python, data types, and syntax!
 By the end of this assignment, you should be able to:
 - Run the basic "Hello World" command in Python
 - Create several variables using various data types
-- Perform basic arithmetic using varialbes of appropriate types
+- Perform basic arithmetic using variables of appropriate types
 
 yay I made another change
 
