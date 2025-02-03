@@ -80,9 +80,9 @@ ASSIGNMENT GOAL:
 '''
 
 name = input('Please enter a name: ')
-age = input('Please enter an age: ')
-height = input('Please enter a height: ')
-is_student = input('Please enter whether or not you are a student: ')
+age = int(input('Please enter an age: '))
+height = float(input('Please enter a height: '))
+is_student = bool(input('Please enter whether or not you are a student: '))
 
 
 
